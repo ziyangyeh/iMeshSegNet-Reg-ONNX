@@ -1,0 +1,10 @@
+.vscode
+build
+open3d
+libtorch
+
+*.zip
+*.ply
+*.trt
+*.onnx
+*.tar.xz
